@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: google-ai
+Version: 0.1.0
+Project-URL: GitHub, https://github.com/horizonbymuneeb/google_generativeai
+License-File: LICENSE.md
+Requires-Dist: google-generativeai
